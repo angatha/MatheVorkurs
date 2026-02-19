@@ -1,0 +1,14 @@
+*echnung*
+*.xlsx
+*.docx
+Vorkursdokumente*
+.ipynb_checkpoints
+venv
+Abstimmungsauswertung.ipynb
+Anzeige_einer_Nebentxtigkeit*
+*Honorarvereinbarung*
+*.csv
+*Artemis*
+*.bat
+*.sh
+[0-9]*
